@@ -1,0 +1,79 @@
+{
+  "mcpServers": {
+    "n8n": {
+      "command": "npx",
+      "args": ["-y", "n8n-mcp-server"],
+      "env": {
+        "N8N_API_KEY": "YOUR_N8N_API_KEY",
+        "N8N_HOST_URL": "YOUR_N8N_HOST_URL"
+      }
+    },
+    "airtable": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-airtable"],
+      "env": {
+        "AIRTABLE_API_KEY": "YOUR_AIRTABLE_API_KEY",
+        "AIRTABLE_BASE_ID": "YOUR_AIRTABLE_BASE_ID"
+      }
+    },
+    "supabase": {
+      "command": "npx",
+      "args": ["-y", "supabase-mcp"],
+      "env": {
+        "SUPABASE_URL": "YOUR_SUPABASE_URL",
+        "SUPABASE_SERVICE_ROLE_KEY": "YOUR_SUPABASE_SERVICE_ROLE_KEY"
+      }
+    },
+    "apify": {
+      "command": "npx",
+      "args": ["-y", "apify-mcp-server"],
+      "env": {
+        "APIFY_API_KEY": "YOUR_APIFY_API_KEY"
+      }
+    },
+    "google-drive": {
+      "command": "npx",
+      "args": ["-y", "google-drive-mcp"],
+      "env": {
+        "GOOGLE_CLIENT_ID": "YOUR_GOOGLE_CLIENT_ID",
+        "GOOGLE_CLIENT_SECRET": "YOUR_GOOGLE_CLIENT_SECRET",
+        "GOOGLE_REFRESH_TOKEN": "YOUR_GOOGLE_REFRESH_TOKEN"
+      }
+    },
+    "meta-ads": {
+      "command": "npx",
+      "args": ["-y", "meta-ads-mcp"],
+      "env": {
+        "META_ACCESS_TOKEN": "YOUR_META_ACCESS_TOKEN",
+        "META_AD_ACCOUNT_ID": "YOUR_META_AD_ACCOUNT_ID",
+        "META_APP_ID": "YOUR_META_APP_ID",
+        "META_APP_SECRET": "YOUR_META_APP_SECRET"
+      }
+    },
+    "gohighlevel": {
+      "command": "npx",
+      "args": ["-y", "gohighlevel-mcp"],
+      "env": {
+        "GHL_API_KEY": "YOUR_GHL_API_KEY",
+        "GHL_LOCATION_ID": "YOUR_GHL_LOCATION_ID"
+      }
+    },
+    "slack": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-slack"],
+      "env": {
+        "SLACK_BOT_TOKEN": "YOUR_SLACK_BOT_TOKEN",
+        "SLACK_CHANNEL_ID": "YOUR_SLACK_CHANNEL_ID"
+      }
+    },
+    "google-sheets": {
+      "command": "npx",
+      "args": ["-y", "google-sheets-mcp"],
+      "env": {
+        "GOOGLE_CLIENT_ID": "YOUR_GOOGLE_CLIENT_ID",
+        "GOOGLE_CLIENT_SECRET": "YOUR_GOOGLE_CLIENT_SECRET",
+        "GOOGLE_REFRESH_TOKEN": "YOUR_GOOGLE_REFRESH_TOKEN"
+      }
+    }
+  }
+}
