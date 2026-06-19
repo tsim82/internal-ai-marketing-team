@@ -4,13 +4,18 @@
 
 ## The Offer in One Sentence
 
-A monthly membership that gives you 15 pre-built AI marketing agents, setup training, daily use training, live calls, and a community - so you can run a full marketing operation without hiring a team or paying an agency.
+A monthly or annual membership that gives you 15 pre-built AI marketing agents, setup training, daily use training, live calls, and a community - so you can run a full marketing operation without hiring a team or paying an agency.
 
 ---
 
 ## Price
 
-$97/month, cancel anytime.
+| Plan | Price | Savings |
+|------|-------|---------|
+| Monthly | $97/month | Cancel anytime |
+| Annual | $997/year | 2 months free vs. monthly |
+
+Annual members pay the equivalent of $83/month.
 
 ---
 

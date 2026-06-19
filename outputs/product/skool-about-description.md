@@ -18,7 +18,7 @@ What you get:
 
 This is not ChatGPT prompts. These are trained agents with defined roles that run on your computer.
 
-$97/month. For local service businesses, coaches, and agency owners.
+$97/month or $997/year (2 months free). For local service businesses, coaches, and agency owners.
 
 Cancel anytime.
 

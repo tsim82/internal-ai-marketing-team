@@ -84,9 +84,12 @@ There's no complicated tech setup. If you can open a terminal and follow instruc
 
 ## Price
 
-**$97/month**
+| Plan | Price | Savings |
+|------|-------|---------|
+| Monthly | $97/month | Cancel anytime |
+| Annual | $997/year | 2 months free |
 
-Cancel anytime. No contracts.
+Annual members pay the equivalent of $83/month. No contracts on either plan.
 
 ---
 
