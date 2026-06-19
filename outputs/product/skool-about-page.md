@@ -90,6 +90,18 @@ Cancel anytime. No contracts.
 
 ---
 
+## Who's Teaching This
+
+My name is Tyrone Sims. I've spent years building lead generation systems for businesses.
+
+When AI started changing how marketing gets done, I didn't ignore it. I built a team around it.
+
+15 specialized agents running inside Claude Code, each trained for a specific marketing job. The result was more output in less time, with better consistency than doing it manually.
+
+AI Marketing Team is where I teach you exactly how to build and run the same system.
+
+---
+
 ## This Is Not For You If
 
 - You want someone else to do your marketing for you
