@@ -36,3 +36,6 @@ npm-debug.log*
 # Outputs - personal work, not for version control
 outputs/*
 !outputs/.gitkeep
+
+# Product - personal work, not for version control
+product/
