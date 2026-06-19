@@ -33,9 +33,5 @@ npm-debug.log*
 *.tmp
 *.temp
 
-# Outputs - personal work, not for version control
-outputs/*
-!outputs/.gitkeep
-
-# Product - personal work, not for version control
-product/
+# Product output files - personal work, not for version control
+outputs/product/
