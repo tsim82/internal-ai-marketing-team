@@ -106,6 +106,18 @@ Format: The caption is secondary. The video is primary. Captions should match th
 - Hashtags: 3-5 for Reels. TikTok: up to 5-7 specific ones. Shorts: usually none needed.
 - CTA: "Follow for part 2" or "Save this" or "Comment your answer" performs well.
 
+**Twitter / X**
+
+Format: Tight, opinionated writing. Every word earns its place. Platform rewards takes, not content.
+- Single tweet: 280 characters max. Write to the limit, then cut.
+- Threads: Use for step-by-step breakdowns, lists, or anything that needs more than 280 characters to land.
+- Hook tweet: Must work as a standalone post. If nobody clicks through, the thread should still be worth the read.
+- Hashtags: 0-2 maximum. Hashtags on X have minimal discovery value. Don't force them.
+- Tone: More direct and opinionated than other platforms. Softer corporate tone underperforms here.
+- CTA: End threads with "Follow @[handle] for more" or "Retweet the first tweet." Single tweets can end without a CTA.
+- Best content types: Single strong takes, numbered threads (lists), quote tweets with added perspective.
+- See `skills/social-media/twitter-x-post.md` for full format rules and output templates.
+
 ---
 
 ## Strategy 3 - Hook Framework for Social

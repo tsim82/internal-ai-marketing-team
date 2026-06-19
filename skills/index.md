@@ -87,6 +87,7 @@ Before creating a new skill, check this list to see if one already exists. See `
 | Instagram Post | [skills/social-media/instagram-post.md](social-media/instagram-post.md) | Social Media | Copywriter, QA | Placeholder |
 | Facebook Post | [skills/social-media/facebook-post.md](social-media/facebook-post.md) | Social Media | Copywriter, QA | Placeholder |
 | LinkedIn Post | [skills/social-media/linkedin-post.md](social-media/linkedin-post.md) | Social Media | Copywriter, QA | Placeholder |
+| Twitter / X Post | [skills/social-media/twitter-x-post.md](social-media/twitter-x-post.md) | Social Media | Copywriter, QA | Active |
 | Short-Form Caption | [skills/social-media/short-form-caption.md](social-media/short-form-caption.md) | Social Media | Video Agent | Placeholder |
 | Repurposing System | [skills/social-media/repurposing-system.md](social-media/repurposing-system.md) | Social Media | Video Agent | Placeholder |
 
